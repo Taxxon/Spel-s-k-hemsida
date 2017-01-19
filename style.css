@@ -48,3 +48,46 @@ body {
 #Gamename {
 	font-family: 'Kaushan Script', cursive;
 }
+
+#placement {
+	margin-top: -100px;
+}
+
+#tf2 {
+	background-image: url(Tf2.jpg);
+	background-size: cover;
+	height: 500px;
+	width: 800px;
+	margin-left: 200px;
+	float: left;
+}
+
+#rightsidegames {
+
+}
+
+#dota2 {
+	background-image: url(Dota2game.jpg);
+	background-size: cover;
+	height: 245px;
+	width: 300px;
+	margin-top: 200px;
+	margin-left: 1010px;
+}
+
+#warframe {
+	background-image: url(Warframe.jpg);
+	background-size: cover;
+	height: 245px;
+	width: 300px;
+	margin-top: 10px;
+	margin-left: 1010px;
+}
+
+#freegames {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 600%;
+	margin-left: 560px;
+	margin-top: 100px;
+}
+
